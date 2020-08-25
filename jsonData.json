@@ -1,0 +1,19 @@
+{
+"books": [
+    {
+        "bookTitleEnglish": "1",
+        "bookTitleKaren": "၁.ပထီၣ်သရိာ်ဘါယွၤမုာ်",
+        "bookAuthor" : "ဘါတၢ်"
+    },
+    {
+        "bookTitleEnglish": "2",
+        "bookTitleKaren": "၂.အိၣ်ဖှိၣ်ဘါမူခိၣ်စီၤပၤ",
+        "bookAuthor" : "ဘါတၢ်"
+    },
+    {
+        "bookTitleEnglish": "3",
+        "bookTitleKaren": "၃.အိၣ်ဖှိၣ်ဘါသကိး",
+        "bookAuthor" : "ဘါတၢ်"
+    }
+]
+}
