@@ -3,27 +3,18 @@
     {
         "bookTitleEnglish": "The Bronze Drum and the Karen",
         "bookTitleKaren": "ကျိၣ်ဒီးကညီဖိ",
-        "bookAuthor" : "Drum Publication Group"
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/karendrum_k.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/15g46yg7-front-shortedge-384.jpg"
     },
-    {
-        "bookTitleEnglish": "2",
-        "bookTitleKaren": "၂.အိၣ်ဖှိၣ်ဘါမူခိၣ်စီၤပၤ",
-        "bookAuthor" : "ဘါတၢ်"
-    },
-    {
-        "bookTitleEnglish": "3",
-        "bookTitleKaren": "၃.အိၣ်ဖှိၣ်ဘါသကိး",
-        "bookAuthor" : "ဘါတၢ်"
-    },
-    {
-        "bookTitleEnglish": "3",
-        "bookTitleKaren": "test",
-        "bookAuthor" : "ဘါတၢ်"
-    },
-    {
-        "bookTitleEnglish": "last one eh so wah",
-        "bookTitleKaren": "test last one eh sow ",
-        "bookAuthor" : "ဘါတၢ်"
+     {
+        "bookTitleEnglish": "The Bronze Drum and the Karen",
+        "bookTitleKaren": "ကျိၣ်ဒီးကညီဖိ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/karendrum_k.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/15g46yg7-front-shortedge-384.jpg"
     }
 ]
 }
