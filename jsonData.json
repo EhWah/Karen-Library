@@ -9,12 +9,100 @@
         "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/15g46yg7-front-shortedge-384.jpg"
     },
      {
-        "bookTitleEnglish": "The Bronze Drum and the Karen",
-        "bookTitleKaren": "ကျိၣ်ဒီးကညီဖိ",
+        "bookTitleEnglish": "Traditional Karen Dress",
+        "bookTitleKaren": "ကညီဖိအဆ့ဧိၤစီၤဧိၤအဂ့ၢ် ",
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Culture",
         "bookURL": "https://www.drumpublications.org/download/traditionalkarencloth.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/Card-kareninstruments1.jpg"
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Traditional Festivals of the Karen People",
+        "bookTitleKaren": "ကညီလုၢ်လၢ်ထူသနူအမူးတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/karenfestivalsk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Karen History and Traditional Judicial System",
+        "bookTitleKaren": "ကညီတၢ်စံၣ်စိၤတဲစိၤဒီးလုၢ်လၢ်ထူသနူ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/karenhistoryk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Faiths and Traditional Beliefs of the Karen People",
+        "bookTitleKaren": "ကညီဖိတဖၣ်အတၢ်ဘူၣ်တၢ်ဘါဒီးတၢ်စူၢ်တၢ်နာ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/karenfaithsk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Traditional Karen Household Tips",
+        "bookTitleKaren": "ဟံၣ်ဃီတၢ်ကူၣ်သ့, တၢ်ကူၣ်သ့လၢတကြၢးပသးပ့ၤနီၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/householdkdownload.php",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Karen Folklore",
+        "bookTitleKaren": "ကညီတၢ်စံၣ်ဃဲၤတဲဃဲၤတဖၣ် ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/folklore.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Karen Traditional Knowledge and Beliefs",
+        "bookTitleKaren": "ကညီတၢ်ဒုၣ်တၢ်ထုဒီးတၢ်စူၢ်တၢ်နာ်တဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/karenbeliefs.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Ways of Our Ancestors",
+        "bookTitleKaren": "မှံၤပှၢ်လၢပျၢၤမၤဒ်အံၤ ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/tchcomp2008.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "",
+        "bookTitleKaren": " ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Karenni Folklore",
+        "bookTitleKaren": "ကရ့ၣ်နံၣ်အတၢ်စံၣ်ဃဲၤလၢပျၢၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/Karenni_Folklore_K.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Forest Treats: Traditonal Karen Snacks",
+        "bookTitleKaren": "ကညီအကိၣ်ဖိဖ့ဖိတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/karen_snacks.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "",
+        "bookTitleKaren": " ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "",
+        "bookCoverURL": ""
     }
 ]
 }
