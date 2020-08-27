@@ -97,12 +97,365 @@
         "bookCoverURL": ""
     },
      {
-        "bookTitleEnglish": "",
-        "bookTitleKaren": " ",
+        "bookTitleEnglish": "Health Terms Glossary",
+        "bookTitleKaren": "တၢ်အိၣ်ဆူၣ်အိၣ်ချ့ဝီၢ်သြဲ ",
         "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/medicalterms2_2008.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Health Terms Glossary of Backpack Medics",
+        "bookTitleKaren": "A collection of health related terms in English and Sgaw Karen used by Backpack Medics",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/backpack_medic_terms.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Transliteration Guide",
+        "bookTitleKaren": "A pdf file with audio to give you a start at learning the Karen script",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/transliterate.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Transliteration word list",
+        "bookTitleKaren": "A pdf file designed to be used with the transliteration guide for more practice learning the Karen script.",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/transwordlist1.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Glossary of Science Terms",
+        "bookTitleKaren": "This is a draft of suggested translations of English science terms to be used in developing Karen language science curriculum.",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/KED%20Curriculum%20vocab%20draft.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Days Not to be Forgotten",
+        "bookTitleKaren": "မုၢ်နံၤတဖၣ်လၢတၢ်သးပ့ၤနီၣ်တသ့",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/oralhistory.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Famous People in History",
+        "bookTitleKaren": "ပှၤမံၤဟူသၣ်ဖျါလၢတၢ်စံၣ်စိၤအပူၤတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/famousk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Most Influential Leaders of the 20th Century",
+        "bookTitleKaren": "ခိၣ်နၢ်မံၤဟူသၣ်ဖျါလၢယၤဖှိၣ်နံၣ် ၂၀ အပူၤတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/20leadersk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Karen Voices Around the World",
+        "bookTitleKaren": "ကညီဖိလၢဟီၣ်ခိၣ်ဒီဘ့ၣ်အကလုၢ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/voices.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Secrets of Nature Around Me",
+        "bookTitleKaren": "န့ဆၢၣ်တၢ်ခူသူၣ်လၢအအိၣ်ဝးတရံးယၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/weather_k.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Extremely Fun Facts",
+        "bookTitleKaren": "တၢ်လီၤဘီလီၤမုၢ်လၢဟီၣ်ခိၣ်ချၢ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/ExtremeFacts_K.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Ethnic Folktakes of Burma",
+        "bookTitleKaren": "ကီၢ်ပယီၤကလုာ်ဒူၣ်တဖၣ်အတၢ်တဲ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/ethnicfolktalesofburmakaren.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Though Our Ancestors are Gone",
+        "bookTitleKaren": "ပမှံၤပပှၢ်တဖၣ်လဲၤပူၤကွံာ်ဘၣ်ဆၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/ancestors.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Gulliver's Travels",
+        "bookTitleKaren": "ကလ့ဘၢၣ်အတၢ်လဲၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/gulliverk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Happy Prince and Other Tales of Oscar Wilde",
+        "bookTitleKaren": "စီၤပၤဖိလၢအသးဖှံဒီးတၢ်တဲအဂၤတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/hpk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Stories From Around the World",
+        "bookTitleKaren": "ဖိသၣ်လၢလီၢ်ကိးပူၤဒဲး",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/aroundworldk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Giant and Other Tales",
+        "bookTitleKaren": "ဒိးတကါတူာ်စုမုၢ်ဒီးတၢ်တဲမုာ်နၢ်အဂၤတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/gianttales.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Animal Farm",
+        "bookTitleKaren": "ဆၣ်ဖိကီၢ်ဖိကရၢၢ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/animalfarm.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "10th Anniversay Student Stories",
+        "bookTitleKaren": "အနံၣ်တဆံတၢ်ကွဲးမုာ်တဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/ststory10.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Teachers I Remember",
+        "bookTitleKaren": "သရၣ်လၢယတၢ်သ့ၣ်နီၣ်အပူၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/tchstory2007.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Good Earth",
+        "bookTitleKaren": "ဟီၣ်ခိၣ်လၢအဂ့ၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/goodearthk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Pearl",
+        "bookTitleKaren": "ချိၣ်လ့ၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/pearlk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Stories My Grandmother Told Me",
+        "bookTitleKaren": "တၢ်တဲလၢယဖံတဲယၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/stcomp2008.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Golden Lotus and Other Stories",
+        "bookTitleKaren": "တကီဖီထူဒီးတၢ်တဲအဂၤတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/glotus_k.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Ywa Thit Gyi Mysteries",
+        "bookTitleKaren": "ယွၢ်သ့းကၠံအတၢ်မူးတၢ်ရၢ်တဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/mysteries_k.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Your Generation And Mine",
+        "bookTitleKaren": "လၢနစိၤဒီၤလၢယစိၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/generations.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Images In My Memory",
+        "bookTitleKaren": "ယတၢ်သ့ၣ်နီၣ်အကဒုဖိ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/mymemory.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Karen Ghost Stories",
+        "bookTitleKaren": "တဲပြဲၢ်ပီၤတဃၣ်ဒီးတၢ်လီၤပျံၤလီၤဖုး",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/Karen%20Ghost%20Stories.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Tales of the Brothers Grimm",
+        "bookTitleKaren": "ကရံ(မ်)တၢ်တဲမုာ်နၢ်တဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/grimmk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Little Authors' Imaginative World Student Story Writing Competition",
+        "bookTitleKaren": "တၢ်ဆိကမိၣ်မှံအတၢ်ကွဲး လၢထိၣ်ဒံးသီဖိတဖၣ်တၢ်တဲထၢဖှိၣ်လၢဖိသၣ်တဖၣ် အဘ့ၣ်(၈)",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/imaginative.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Lilly and Pa Saw Htee's Amazing Earth and the Universe Facts",
+        "bookTitleKaren": "လ့လ့ၣ်ဒီးပစီၤထံ တၢ်ဂ့ၢ်လီၤကမၢကမၣ်ဘၣ်ဃး ဟီၣ်ခိၣ်ဖျၢၣ်ဒီးမူကပိာ်အဂ့ၢ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/amazingearthkaren.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Lilly and Pa Saw Htee's Amazing Animal Facts",
+        "bookTitleKaren": "လ့လ့ၣ်ဒီးပစီၤထံ တၢ်ဂ့ၢ်လီၤကမၢကမၣ်ဘၣ်ဃး ဆၣ်ဖိကီၢ်ဖိအဂ့ၢ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/amazingfactkaren.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Hta for Children",
+        "bookTitleKaren": "ထါဖိသၣ်လၢပျၢၤတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/hta.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "A Holiday I Will Never Forget",
+        "bookTitleKaren": "(a choose your our adventure story)",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/holiday.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Stories for Little Children",
+        "bookTitleKaren": "တၢ်တဲအမုာ်လၢဖိသၣ်ဆံးအဂီၢ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/slck.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Aesops Fables 1",
+        "bookTitleKaren": "အံးစိး(ဖ်)တၢ်တဲမုာ်နၢ်တဖၣ် ၁",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/aesops1.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Aesops Fables 2",
+        "bookTitleKaren": "အံးစိး(ဖ်)တၢ်တဲမုာ်နၢ်တဖၣ် ၂",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/aesops2.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Brain Sharpener 1",
+        "bookTitleKaren": "တၢ်ကျ့ခိၣ်နူာ် ၁",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/karenbrainsharpener.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Brain Sharpener 2",
+        "bookTitleKaren": "တၢ်ကျ့ခိၣ်နူာ် ၂",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/bs2k.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "The Best Of Drum Kid's Collection",
+        "bookTitleKaren": "ဖိသၣ်သနၢၣ် ဖိသၣ်သနၢၣ်တၢ်ကွဲးပာ်ဖှိၣ်တဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Children's Books",
+        "bookURL": "https://www.drumpublications.org/download/drum%20kids%20collection%20web.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Facts For Life",
+        "bookTitleKaren": "ပအိၣ်မူခါဘၣ်သ့ၣ်ညါ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Health Education",
+        "bookURL": "https://www.drumpublications.org/download/fflk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "How Your Body Works",
+        "bookTitleKaren": "နမိၢ်ပှၢ်မၤတၢ်ဒ်လဲၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Health Education",
+        "bookURL": "https://www.drumpublications.org/download/bodyworksk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "What Food Does Your Body Need?",
+        "bookTitleKaren": "ပမိၢ်ပှၢ်လိၣ်ဘၣ်တၢ်အီၣ်မနုၤလဲၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Health Education",
+        "bookURL": "https://www.drumpublications.org/download/foodbody_k.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Low Cost Farming",
+        "bookTitleKaren": "တၢ်သူၣ်တၢ်ဖျးလၢတၢ်လၢာ်ဘူၣ်လၢာ်စ့ၤစှၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Agriculture",
+        "bookURL": "https://www.drumpublications.org/download/lowcostfarmingk.pdf",
+        "bookCoverURL": ""
+    },
+     {
+        "bookTitleEnglish": "Everyone Can Make Compost",
+        "bookTitleKaren": "ဂာ်ဟီၣ်စီ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Agriculture",
+        "bookURL": "https://www.drumpublications.org/download/compost.pdf",
         "bookCoverURL": ""
     }
+     
 ]
 }
