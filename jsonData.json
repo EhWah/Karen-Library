@@ -38,7 +38,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Culture",
         "bookURL": "https://www.drumpublications.org/download/karenfaithsk.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/theFaith%2Btraditional.png"
     },
      {
         "bookTitleEnglish": "Traditional Karen Household Tips",
@@ -46,7 +46,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Culture",
         "bookURL": "https://www.drumpublications.org/download/cookk.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/houseTip.png"
     },
      {
         "bookTitleEnglish": "Karen Folklore",
@@ -54,7 +54,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Culture",
         "bookURL": "https://www.drumpublications.org/download/folklore.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenfolklore.png"
     },
      {
         "bookTitleEnglish": "Karen Traditional Knowledge and Beliefs",
@@ -62,7 +62,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Culture",
         "bookURL": "https://www.drumpublications.org/download/karenbeliefs.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/knowledge%2Bbelieve.png"
     },
      {
         "bookTitleEnglish": "The Ways of Our Ancestors",
@@ -70,7 +70,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Culture",
         "bookURL": "https://www.drumpublications.org/download/tchcomp2008.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/theWaysOfOurAncestors.png"
     },
      {
         "bookTitleEnglish": "Karenni Folklore",
@@ -78,7 +78,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Culture",
         "bookURL": "https://www.drumpublications.org/download/Karenni_Folklore_K.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenni.png"
     },
      {
         "bookTitleEnglish": "Forest Treats: Traditonal Karen Snacks",
@@ -86,7 +86,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Culture",
         "bookURL": "https://www.drumpublications.org/download/karen_snacks.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenSnack.png"
     },
      {
         "bookTitleEnglish": "Health Terms Glossary",
@@ -102,7 +102,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Reference",
         "bookURL": "https://www.drumpublications.org/download/backpack_medic_terms.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/medicalTerms.png"
     },
      {
         "bookTitleEnglish": "Transliteration Guide",
@@ -134,15 +134,15 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Reference",
         "bookURL": "https://www.drumpublications.org/download/oralhistory.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/dayWeNotforget.png"
     },
      {
-        "bookTitleEnglish": "Famous People in History",
-        "bookTitleKaren": "ပှၤမံၤဟူသၣ်ဖျါလၢတၢ်စံၣ်စိၤအပူၤတဖၣ်",
+        "bookTitleEnglish": "Famous People in World",
+        "bookTitleKaren": "ပှၤမံၤဟူသၣ်ဖျါလၢဟီၣ်ခိၣ်ချၢတဖၣ်",
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Reference",
         "bookURL": "https://www.drumpublications.org/download/famousk.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/famousPeople.png"
     },
      {
         "bookTitleEnglish": "Most Influential Leaders of the 20th Century",
@@ -150,7 +150,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Reference",
         "bookURL": "https://www.drumpublications.org/download/20leadersk.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/famousPeople20Cent.png"
     },
      {
         "bookTitleEnglish": "Karen Voices Around the World",
@@ -158,7 +158,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Reference",
         "bookURL": "https://www.drumpublications.org/download/voices.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/voiceAroundWorld.png"
     },
      {
         "bookTitleEnglish": "The Secrets of Nature Around Me",
@@ -166,7 +166,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Reference",
         "bookURL": "https://www.drumpublications.org/download/weather_k.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/naturalSecret.png"
     },
      {
         "bookTitleEnglish": "Extremely Fun Facts",
@@ -174,7 +174,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Reference",
         "bookURL": "https://www.drumpublications.org/download/ExtremeFacts_K.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/funFacts.png"
     },
      {
         "bookTitleEnglish": "Ethnic Folktakes of Burma",
@@ -198,7 +198,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/gulliverk.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/gulliver'stravels.png"
     },
      {
         "bookTitleEnglish": "The Happy Prince and Other Tales of Oscar Wilde",
@@ -214,7 +214,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/aroundworldk.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/littleKingStory.png"
     },
      {
         "bookTitleEnglish": "The Giant and Other Tales",
@@ -222,7 +222,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/gianttales.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/gianAndOtherTale.png"
     },
      {
         "bookTitleEnglish": "Animal Farm",
@@ -230,7 +230,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/animalfarm.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/animalFarm.png"
     },
      {
         "bookTitleEnglish": "10th Anniversay Student Stories",
@@ -238,7 +238,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/ststory10.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/10AnnStudentStory.png"
     },
      {
         "bookTitleEnglish": "Teachers I Remember",
@@ -246,7 +246,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/tchstory2007.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/teacherIRemeber.png"
     },
      {
         "bookTitleEnglish": "The Good Earth",
@@ -254,7 +254,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/goodearthk.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/goodEarth.png"
     },
      {
         "bookTitleEnglish": "The Pearl",
@@ -262,7 +262,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/pearlk.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/thePearl.png"
     },
      {
         "bookTitleEnglish": "Stories My Grandmother Told Me",
@@ -270,7 +270,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/stcomp2008.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/grandmaStory.png"
     },
      {
         "bookTitleEnglish": "The Golden Lotus and Other Stories",
@@ -278,7 +278,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/glotus_k.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/goldenLotus.png"
     },
      {
         "bookTitleEnglish": "The Ywa Thit Gyi Mysteries",
@@ -286,7 +286,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/mysteries_k.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/mysteries.png"
     },
      {
         "bookTitleEnglish": "Your Generation And Mine",
@@ -294,7 +294,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/generations.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/yourGenerationAndMine.png"
     },
      {
         "bookTitleEnglish": "Karen Ghost Stories",
@@ -302,7 +302,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Fiction",
         "bookURL": "https://www.drumpublications.org/download/Karen%20Ghost%20Stories.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/ghostStories.png"
     },
      {
         "bookTitleEnglish": "Tales of the Brothers Grimm",
@@ -318,7 +318,7 @@
         "bookAuthor" : "Drum Publication Group",
         "bookCategory": "Children's Books",
         "bookURL": "https://www.drumpublications.org/download/imaginative.pdf",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/studentWriting.png"
     },
      {
         "bookTitleEnglish": "Lilly and Pa Saw Htee's Amazing Earth and the Universe Facts",
