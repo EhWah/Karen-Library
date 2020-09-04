@@ -1,84 +1,12 @@
 {
 "books": [
     {
-        "bookTitleEnglish": "The Bronze Drum and the Karen",
-        "bookTitleKaren": "ကျိၣ်ဒီးကညီဖိ",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/karendrum_k.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/15g46yg7-front-shortedge-384.jpg"
-    },
-     {
-        "bookTitleEnglish": "Traditional Karen Dress",
-        "bookTitleKaren": "ကညီဖိအဆ့ဧိၤစီၤဧိၤအဂ့ၢ် ",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/traditionalkarencloth.pdf",
+        "bookTitleEnglish": "Hymnal Songs Hymnal Songs Hymnal Songs Easy Playing for the Beginner",
+        "bookTitleKaren": "တၢ်သးဝံၣ်တဖၣ် ဘၣ်တၢ်မၤညီအီၤလၢ ပှၤမၤလိဒ့တၢ်သီသီအဂီၢ်",
+        "bookAuthor" : "STNM Music Home Mission Compound, Karen Quater, Ahlone, Yangon",
+        "bookCategory": "Music",
+        "bookURL": "https://kareninfotech.com/wp-content/uploads/2020/08/hymn-123-A4-size-final-final.pdf",
         "bookCoverURL": ""
-    },
-     {
-        "bookTitleEnglish": "The Traditional Festivals of the Karen People",
-        "bookTitleKaren": "ကညီလုၢ်လၢ်ထူသနူအမူးတဖၣ်",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/karenfestivalsk.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/Screen%20Shot%202020-09-03%20at%2010.57.53%20AM.png"
-    },
-     {
-        "bookTitleEnglish": "Karen History and Traditional Judicial System",
-        "bookTitleKaren": "ကညီတၢ်စံၣ်စိၤတဲစိၤဒီးလုၢ်လၢ်ထူသနူ",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/karenhistoryk.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/Screen%20Shot%202020-09-03%20at%2010.58.32%20AM.png"
-    },
-     {
-        "bookTitleEnglish": "The Faiths and Traditional Beliefs of the Karen People",
-        "bookTitleKaren": "ကညီဖိတဖၣ်အတၢ်ဘူၣ်တၢ်ဘါဒီးတၢ်စူၢ်တၢ်နာ်",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/karenfaithsk.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/theFaith%2Btraditional.png"
-    },
-     {
-        "bookTitleEnglish": "Traditional Karen Household Tips",
-        "bookTitleKaren": "ဟံၣ်ဃီတၢ်ကူၣ်သ့, တၢ်ကူၣ်သ့လၢတကြၢးပသးပ့ၤနီၣ်",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/cookk.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/houseTip.png"
-    },
-     {
-        "bookTitleEnglish": "Karen Folklore",
-        "bookTitleKaren": "ကညီတၢ်စံၣ်ဃဲၤတဲဃဲၤတဖၣ် ",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/folklore.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenfolklore.png"
-    },
-     {
-        "bookTitleEnglish": "Karen Traditional Knowledge and Beliefs",
-        "bookTitleKaren": "ကညီတၢ်ဒုၣ်တၢ်ထုဒီးတၢ်စူၢ်တၢ်နာ်တဖၣ်",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/karenbeliefs.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/knowledge%2Bbelieve.png"
-    },
-     {
-        "bookTitleEnglish": "The Ways of Our Ancestors",
-        "bookTitleKaren": "မှံၤပှၢ်လၢပျၢၤမၤဒ်အံၤ ",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/tchcomp2008.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/theWaysOfOurAncestors.png"
-    },
-     {
-        "bookTitleEnglish": "Karenni Folklore",
-        "bookTitleKaren": "ကရ့ၣ်နံၣ်အတၢ်စံၣ်ဃဲၤလၢပျၢၤ",
-        "bookAuthor" : "Drum Publication Group",
-        "bookCategory": "Culture",
-        "bookURL": "https://www.drumpublications.org/download/Karenni_Folklore_K.pdf",
-        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenni.png"
     },
      {
         "bookTitleEnglish": "Forest Treats: Traditonal Karen Snacks",
@@ -87,8 +15,71 @@
         "bookCategory": "Culture",
         "bookURL": "https://www.drumpublications.org/download/karen_snacks.pdf",
         "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenSnack.png"
+    },
+    {
+        "bookTitleEnglish": "The Ways of Our Ancestors",
+        "bookTitleKaren": "မှံၤပှၢ်လၢပျၢၤမၤဒ်အံၤ ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/tchcomp2008.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/theWaysOfOurAncestors.png"
+    },
+     {
+        "bookTitleEnglish": "Most Influential Leaders of the 20th Century",
+        "bookTitleKaren": "ခိၣ်နၢ်မံၤဟူသၣ်ဖျါလၢယၤဖှိၣ်နံၣ် ၂၀ အပူၤတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/20leadersk.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/famousPeople20Cent.png"
+    },
+     {
+        "bookTitleEnglish": "Extremely Fun Facts",
+        "bookTitleKaren": "တၢ်လီၤဘီလီၤမုၢ်လၢဟီၣ်ခိၣ်ချၢ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Reference",
+        "bookURL": "https://www.drumpublications.org/download/ExtremeFacts_K.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/funFacts.png"
+    },
+     {
+        "bookTitleEnglish": "Stories From Around the World",
+        "bookTitleKaren": "ဖိသၣ်လၢလီၢ်ကိးပူၤဒဲး",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/aroundworldk.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/littleKingStory.png"
+    },
+    {
+        "bookTitleEnglish": "The Bronze Drum and the Karen",
+        "bookTitleKaren": "ကျိၣ်ဒီးကညီဖိ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Culture",
+        "bookURL": "https://www.drumpublications.org/download/karendrum_k.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/15g46yg7-front-shortedge-384.jpg"
+    },
+     {
+        "bookTitleEnglish": "The Giant and Other Tales",
+        "bookTitleKaren": "ဒိးတကါတူာ်စုမုၢ်ဒီးတၢ်တဲမုာ်နၢ်အဂၤတဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/gianttales.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/gianAndOtherTale.png"
+    },
+    {
+        "bookTitleEnglish": "The Pearl",
+        "bookTitleKaren": "ချိၣ်လ့ၤ",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/pearlk.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/thePearl.png"
+    },
+     {
+        "bookTitleEnglish": "The Ywa Thit Gyi Mysteries",
+        "bookTitleKaren": "ယွၢ်သ့းကၠံအတၢ်မူးတၢ်ရၢ်တဖၣ်",
+        "bookAuthor" : "Drum Publication Group",
+        "bookCategory": "Fiction",
+        "bookURL": "https://www.drumpublications.org/download/mysteries_k.pdf",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/mysteries.png"
     }
-     
      
 ]
 }
