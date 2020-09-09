@@ -447,6 +447,142 @@
         "bookCategory": "Music",
         "bookURL": "https://kareninfotech.com/wp-content/uploads/2020/08/hymn-123-A4-size-final-final.pdf",
         "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "Htoo Lwe Wah History",
+        "bookTitleKaren": "ဖုလၢၢ်ဝါ ဒီးအဖိအလံၤတဖၣ်အဂ့ၢ်",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62737347/htoo-lwe-wah-historyﬁ",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/htooLweWah.png"
+    },
+    {
+        "bookTitleEnglish": "Ywa Say Baw",
+        "bookTitleKaren": "သီသံၣ်ပှီၤဂီၤယွၤစ့ဘီ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62766451/ywa-say-baw",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/ywaSayBaw.png"
+    },
+    {
+        "bookTitleEnglish": "The Karen History",
+        "bookTitleKaren": "ပှၤကညီအလံာ်တၢ်စံၣ်စိၤတဲစိၤ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62737375/saw-aung-la-karen-",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/theKarenHistory.png"
+    },
+    {
+        "bookTitleEnglish": "Karen revolution in Burma",
+        "bookTitleKaren": "ပှၤကညီအတၢ်ပၢၢ်ဆၢလၢကီၢ်ပယီၤအပူၤ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62737364/kanyaw-ta-per-sher-in-burma",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenRevolutionInBurma.png"
+    },
+    {
+        "bookTitleEnglish": "karen Suffering",
+        "bookTitleKaren": "ကညီတၢ်တူၢ်ဘၣ်ခီၣ်ဘၣ်",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62737356/ka-nyaw-hta-tu-ba-kaut-ba",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenSuffering.png"
+    },
+    {
+        "bookTitleEnglish": "Mae Tha Wall Battle",
+        "bookTitleKaren": "မဲၣ်သဝီတၢ်ဒုး",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62277039/mae-tha-wall-battle",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/MaeThaWallBattle.png"
+    },
+    {
+        "bookTitleEnglish": "Kaw Moo Ra Battle",
+        "bookTitleKaren": "ကီၢ်မူရၤတၢ်ဒုး",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62277024/kaw-moo-ra-battle",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/KawMooRaBattle.png"
+    },
+    {
+        "bookTitleEnglish": "A Tribute to Saw O Moo, A Hero of the Salween Peace Park",
+        "bookTitleKaren": "တၢ်ဟ့ၣ်တၢ်ယူးယီၣ်ဒီးတၢ်လၤကပီၤဆူစီၤအိၣ်မူ ဃိၣ်လိာ်တၢ်မုာ်တၢ်ခုၣ်ကရၢၢ်အပှၤဒူပှၤဃိၤ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62144069/a-tribute-to-saw-o-moo-a-hero-of-the-salween-peace-park",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/sawOhMoo.png"
+    },
+    {
+        "bookTitleEnglish": "Water is life",
+        "bookTitleKaren": "ထံမ့ၢ်တၢ်သးသမူ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62144048/water-is-life-a-guide-for-water-resources-management-and-its-relation-to-sanitation-and-hygiene",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/waterIsLife.png"
+    },
+    {
+        "bookTitleEnglish": "Neo Historical Journal",
+        "bookTitleKaren": "သမိုင်းသစ်ဂျာနယ်",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62137664/neo-historical-journal-3",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/NeoHistoricalJournal.png"
+    },
+    {
+        "bookTitleEnglish": "Rev. Mooler Theh Story Collection",
+        "bookTitleKaren": "လၢတၢ်သ့ၣ်နီၣ်ပၢ်လၢပအဲၣ်-သရၣ်ဒိၣ်မူလၢၢ်သဲ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/62060756/rev-mooler-theh-story-collection",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/Rev.MooLerTheh.png"
+    },
+    {
+        "bookTitleEnglish": "Studying Orchids Enriching Lives",
+        "bookTitleKaren": "နီၢ်ဂ့ၤထီၣ်လၢသံၣ်လၢဖီ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/61769141/studying-orchids-enriching-lives-karen-version",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/StudingOrchids.png"
+    },
+    {
+        "bookTitleEnglish": "Three candles light",
+        "bookTitleKaren": "မုၢ်နၤအပနဲသၢဘိ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/61016328/three-candles-light",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/threeCandlesLight.png"
+    },
+    {
+        "bookTitleEnglish": "Sgaw karen reader 4th standard",
+        "bookTitleKaren": "ကညီစှီၤအလံာ်ဖး နီၢ်ဂံၢ် ၄",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/it/document/read/60386084/sgaw-karen-reader-4th-standard",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/fourGrade.png"
+    },
+    {
+        "bookTitleEnglish": "Sgaw karen reader 3rd standard",
+        "bookTitleKaren": "ပှၤကညီအလံာ်ဖး ဘၣ်တၢ်ကတဲၤကတီၤအီၤလၢပှၤကညိအတၢ်မၤလိ သၢတီၤတတီၤအဂီၢ်",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/pt/document/read/60324663/sgaw-karen-reader-3rd-standard",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/thirdGrade.png"
+    },
+    {
+        "bookTitleEnglish": "Sgaw karen reader 1st standard",
+        "bookTitleKaren": "ကညီစှီၤအလံာ်ဖးအခီၣ်ထံးတတီၤ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/pt/document/read/60325049/sgaw-karen-reader-1st-standard",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/firstGrade.png"
+    },
+    {
+        "bookTitleEnglish": "Karen Reading for KGB- KGA",
+        "bookTitleKaren": "တီၤဖိသၣ်ကညီလံၣ်ဖး",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/it/document/read/60311855/karen-reading-for-kgb-kga",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/KGB-KGA.png"
     }
      
 ]
