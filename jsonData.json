@@ -583,6 +583,94 @@
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/it/document/read/60311855/karen-reading-for-kgb-kga",
         "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/KGB-KGA.png"
+    },
+    {
+        "bookTitleEnglish": "Pastoral Counseling",
+        "bookTitleKaren": "ခရံာ်ဖိတၢ်ကဟုကယာ်သးအတၢ်အိၣ်ဆူၣ်အိၣ်ချ့",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/en/document/read/62083306/pastoral-counseling",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "dictionary of the sgau karen language",
+        "bookTitleKaren": "ကညီ-အဲကလံး ဒ့ၤရှၢၤနရံၤ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/en/document/read/60304466/a-dictionary-of-the-sgau-karen-language-wade",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "Anglo karen dictionary Wade",
+        "bookTitleKaren": "အဲကလံး-ပှၤကညိ အဒ့ၤရှၢၤနရံၤ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/en/document/read/60304494/anglo-karen-dictionary-wade",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "Karen Revolution History Book 2 By Sgaw Ler Taw",
+        "bookTitleKaren": "ကညီတၢ်ပၢၢ်ဆၢတၢ်စံၣ်စိၤတဲစိၤ အဘ့ၣ်(၂)",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/60182370/karen-revolution-history-book-2-by-sgaw-ler-taw",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "Born in Kaw The Baw",
+        "bookTitleKaren": "အိၣ်ဖျဲၣ်လၢကီၢ်သံၣ်ဘီ အိၣ်ကဒုလၢကီၢ်ဘုမံၤဘီ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/60122281/was-born-in-kaw-the-baw",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "The Art of War",
+        "bookTitleKaren": "ဒုးသုးအတၢ်သ့တၢ်ဘၣ်",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/60122279/the-art-of-war",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "Dictatorship to Democracy",
+        "bookTitleKaren": "လၢမီၤစိရိၤသနူဆူဒံၣ်မိၣ်ခြ့ၣ်စံၣ်",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/60122270/dictatorship-to-democracy",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "The Way of Winning Karen Revolution",
+        "bookTitleKaren": "တၢ်ပၢၢ်ဆၢအတၢ်မၤနၢၤအကျဲ",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/60122267/the-way-of-winning-karen-revolution",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "Damming at gunpoint (karen Version)",
+        "bookTitleKaren": "တမၢၢ်ထံလၢကျိခိၣ်ထီး",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/en/document/read/60002050/damming-at-gunpoint-karen-version",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "Christians Concerned for Burma",
+        "bookTitleKaren": "ဟီၣ်ခိၣ်ဒီဖျၢၣ်တၢ်ထုကဖၣ် လၢကီၢ်ပယီၤအဂီၢ်",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/60002031/christians-concerned-for-burma",
+        "bookCoverURL": ""
+    },
+    {
+        "bookTitleEnglish": "Brief History of Karen By KNU",
+        "bookTitleKaren": "ကညီတၢ်ပၢၢ်ဆၢတၢ်စံၣ်စိၤတဲစိၤ တၢ်မၤနီၣ်မၤဃါအဖုၣ်",
+        "bookAuthor" : "Kwekanyaw",
+        "bookCategory": "Magazine",
+        "bookURL": "https://www.yumpu.com/xx/document/read/59997782/brief-history-of-karen-by-knu",
+        "bookCoverURL": ""
     }
      
 ]
