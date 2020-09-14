@@ -578,7 +578,7 @@
     },
     {
         "bookTitleEnglish": "Karen Reading for KGB- KGA",
-        "bookTitleKaren": "တီၤဖိသၣ်ကညီလံၣ်ဖး",
+        "bookTitleKaren": "တီၤဖိသၣ်ကညီလံာ်ဖး",
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/it/document/read/60311855/karen-reading-for-kgb-kga",
@@ -590,7 +590,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/en/document/read/62083306/pastoral-counseling",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/pastoralconseling.png"
     },
     {
         "bookTitleEnglish": "dictionary of the sgau karen language",
@@ -598,7 +598,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/en/document/read/60304466/a-dictionary-of-the-sgau-karen-language-wade",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/dictionaryOfTheSguaKarenLanguage.png"
     },
     {
         "bookTitleEnglish": "Anglo karen dictionary Wade",
@@ -606,7 +606,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/en/document/read/60304494/anglo-karen-dictionary-wade",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/angloKarenDictionaryWade.png"
     },
     {
         "bookTitleEnglish": "Karen Revolution History Book 2 By Sgaw Ler Taw",
@@ -614,7 +614,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/xx/document/read/60182370/karen-revolution-history-book-2-by-sgaw-ler-taw",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenRevolutionHistoryBook2.png"
     },
     {
         "bookTitleEnglish": "Born in Kaw The Baw",
@@ -622,7 +622,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/xx/document/read/60122281/was-born-in-kaw-the-baw",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/bornInKawTheBaw.png"
     },
     {
         "bookTitleEnglish": "The Art of War",
@@ -630,7 +630,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/xx/document/read/60122279/the-art-of-war",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/theArtOfWar.png"
     },
     {
         "bookTitleEnglish": "Dictatorship to Democracy",
@@ -638,7 +638,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/xx/document/read/60122270/dictatorship-to-democracy",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/DictatorshipToDemocracy.png"
     },
     {
         "bookTitleEnglish": "The Way of Winning Karen Revolution",
@@ -646,7 +646,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/xx/document/read/60122267/the-way-of-winning-karen-revolution",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/theWayOfWinningKarenRevolution.png"
     },
     {
         "bookTitleEnglish": "Damming at gunpoint (karen Version)",
@@ -654,7 +654,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/en/document/read/60002050/damming-at-gunpoint-karen-version",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/DamminAtGunPoint.png"
     },
     {
         "bookTitleEnglish": "Christians Concerned for Burma",
@@ -662,7 +662,7 @@
         "bookAuthor" : "Kwekanyaw",
         "bookCategory": "Magazine",
         "bookURL": "https://www.yumpu.com/xx/document/read/60002031/christians-concerned-for-burma",
-        "bookCoverURL": ""
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/christianConcernedForBurma.png"
     },
     {
         "bookTitleEnglish": "Brief History of Karen By KNU",
