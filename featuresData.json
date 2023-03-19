@@ -1,6 +1,14 @@
 {
 "books": [
     {
+        "bookTitleEnglish": "Karen Tracing Letters",
+        "bookTitleKaren": "ကညီလံာ်ကွဲးလိ",
+        "bookAuthor" : "Eh Wah",
+        "bookCategory": "Book",
+        "bookURL": "https://drive.google.com/file/d/1yDvt9oCVpKlJDzmVhIPrT3p3jbkJ4OIY/view?usp=sharing",
+        "bookCoverURL": "https://raw.githubusercontent.com/EhWah/Karen-Library/master/karenTL.png"
+    },
+    {
         "bookTitleEnglish": "Hymnal Songs Hymnal Songs Hymnal Songs Easy Playing for the Beginner",
         "bookTitleKaren": "တၢ်သးဝံၣ်တဖၣ် ဘၣ်တၢ်မၤညီအီၤလၢ ပှၤမၤလိဒ့တၢ်သီသီအဂီၢ်",
         "bookAuthor" : "STNM Music Home Mission Compound, Karen Quater, Ahlone, Yangon",
